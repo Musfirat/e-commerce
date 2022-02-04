@@ -1,0 +1,38 @@
+.price-tag{
+    color: #FF136F;
+    font-size: 41px;
+}
+.btn-price{
+    width: 138px;
+    height: 45px;
+    border-radius: 20px;
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: antiquewhite;
+    border: 0;
+    margin-top: 20px;
+}
+#bg-cat1{
+    background-image: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+#bg-cat-2{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+
+#bg-cat-3{
+   background-image: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+
+}
+#bg-cat1, #bg-cat-2, #bg-cat-3{
+    border-radius: 10px;
+}
+.catf{
+    color: #fff;
+    padding-left: 30px;
+    font-size: 2rem;
+}
+.cl{
+    background-color: f8f1f2;
+}
+footer{
+    margin-top: 70px;
+}
